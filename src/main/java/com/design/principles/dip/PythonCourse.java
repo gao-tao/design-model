@@ -1,4 +1,4 @@
-package com.design.principles.two;
+package com.design.principles.dip;
 
 public class PythonCourse implements ICourse{
 
