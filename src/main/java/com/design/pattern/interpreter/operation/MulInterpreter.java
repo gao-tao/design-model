@@ -1,7 +1,7 @@
-package com.design.pattern.expression.operation;
+package com.design.pattern.interpreter.operation;
 
-import com.design.pattern.expression.IArithmeticInterpreter;
-import com.design.pattern.expression.Interpreter;
+import com.design.pattern.interpreter.IArithmeticInterpreter;
+import com.design.pattern.interpreter.Interpreter;
 
 /**
  * 乘法表达式

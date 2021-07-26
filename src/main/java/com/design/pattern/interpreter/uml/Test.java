@@ -1,4 +1,4 @@
-package com.design.pattern.expression.uml;
+package com.design.pattern.interpreter.uml;
 
 import java.util.Stack;
 

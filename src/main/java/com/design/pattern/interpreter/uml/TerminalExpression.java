@@ -1,4 +1,4 @@
-package com.design.pattern.expression.uml;
+package com.design.pattern.interpreter.uml;
 
 // 终结符表达式
 public class TerminalExpression implements IExpression {

@@ -1,9 +1,9 @@
-package com.design.pattern.expression;
+package com.design.pattern.interpreter;
 
-import com.design.pattern.expression.operation.AddInterpreter;
-import com.design.pattern.expression.operation.DivInterpreter;
-import com.design.pattern.expression.operation.MulInterpreter;
-import com.design.pattern.expression.operation.SubInterpreter;
+import com.design.pattern.interpreter.operation.AddInterpreter;
+import com.design.pattern.interpreter.operation.DivInterpreter;
+import com.design.pattern.interpreter.operation.MulInterpreter;
+import com.design.pattern.interpreter.operation.SubInterpreter;
 
 public class OperatorUtil {
 

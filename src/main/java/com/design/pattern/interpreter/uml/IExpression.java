@@ -1,4 +1,4 @@
-package com.design.pattern.expression.uml;
+package com.design.pattern.interpreter.uml;
 
 // 抽象表达式
 public interface IExpression {

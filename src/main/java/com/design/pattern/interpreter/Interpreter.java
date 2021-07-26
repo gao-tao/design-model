@@ -1,4 +1,4 @@
-package com.design.pattern.expression;
+package com.design.pattern.interpreter;
 
 public abstract class Interpreter implements IArithmeticInterpreter{
 
